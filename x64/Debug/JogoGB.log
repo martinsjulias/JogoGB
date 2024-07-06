@@ -1,0 +1,78 @@
+﻿  game.cpp
+  main.cpp
+  player.cpp
+  tilemap.cpp
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,66): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(52,49): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,72): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(53,55): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,78): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(54,55): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,72): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:         with
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:             T=unsigned int
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:         ]
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:         and
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:         [
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:             T=float
+C:\Users\I588362\source\repos\JogoGB\JogoGB\JogoGB\tilemap.cpp(55,49): warning C4244:         ]
+  Generating Code...
+  JogoGB.vcxproj -> C:\Users\I588362\source\repos\JogoGB\JogoGB\x64\Debug\JogoGB.exe
